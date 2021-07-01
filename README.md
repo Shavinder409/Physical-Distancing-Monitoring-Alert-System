@@ -11,3 +11,6 @@ I have divided the whole system process into four stages:
 5)    
 6) **Risk factor determination**
 7)  ![](Images/fig13.png)
+8)  ![](Images/fig14.png)
+9)  ![](Images/fig15.png)
+10)  ![](Images/fig16.png)
