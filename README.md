@@ -7,10 +7,9 @@ I have divided the whole system process into four stages:
       ![](Images/fig6.png)
 2) **People detection**
 3) **Inter-person distance calculation**
-4)  ![](Images/fig12a.png)
-5)    
-6) **Risk factor determination**
-7)  ![](Images/fig13.png)
-8)  ![](Images/fig14.png)
-9)  ![](Images/fig15.png)
-10)  ![](Images/fig16.png)
+      ![](Images/fig12a.png) 
+4) **Risk factor determination**
+      ![](Images/fig13.png)
+      ![](Images/fig16.png)
+      ![](Images/fig14.png)
+      ![](Images/fig15.png)
